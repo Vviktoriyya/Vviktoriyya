@@ -1,4 +1,4 @@
-# 💫 About Me:
+💫 About Me:
 Hi there ✌️<br>I’m a beginner Front-End Developer, passionate about creating beautiful and functional websites. Currently, I’m exploring the world of web development and focusing on HTML, CSS, and JavaScript.<br>I’m from Ukraine 🇺🇦 and excited to be part of the tech community!
 
 
